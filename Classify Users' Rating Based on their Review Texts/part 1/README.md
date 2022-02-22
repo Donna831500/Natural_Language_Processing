@@ -5,7 +5,7 @@ This project is the homework 1 for USC CSCI-544 Applied Natural Language Procces
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages or with Anaconda:
+Use the package manager [pip](https://pip.pypa.io/en/stable/) or Anaconda to install following packages :
 
 - pandas
 - numpy
